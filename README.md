@@ -59,6 +59,12 @@ pip install pandas numpy matplotlib seaborn scikit-learn nltk
 
 Here are some visualizations from the project:
 
+<img width="3158" height="1218" alt="barplot" src="https://github.com/user-attachments/assets/50a9f52f-abd8-4867-8686-6d529c70984c" /><br>
+<img width="1606" height="822" alt="wordcloud" src="https://github.com/user-attachments/assets/eebea362-bf2a-4ffb-9785-31ebe47286a7" /><br>
+<img width="580" height="432" alt="countplot" src="https://github.com/user-attachments/assets/7f82592a-c1d6-46ec-b5a3-b280069ea56c" /><br>
+
+
+
 ### 🛠️ Technologies Used
 
 * Python
