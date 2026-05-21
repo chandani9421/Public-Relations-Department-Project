@@ -1,4 +1,4 @@
-# Public-Relations-Department-Project..........
+# Public-Relations-Department-Project
 
 ## 📌 Overview
 
